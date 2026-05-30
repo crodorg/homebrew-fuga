@@ -1,8 +1,8 @@
 class Fuga < Formula
   desc "Terminal-native multi-source music library aggregator"
   homepage "https://github.com/crodorg/fuga"
-  url "https://github.com/crodorg/fuga/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "21e9862189f69c9cc88977bd5ca9ba08bb0e07a57d870096546cff0ee30b3b2d"
+  url "https://github.com/crodorg/fuga/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "6229891d71c2d2abe3fe5b49c4da8a031f61a8c2f1a9b7192758f2bb83eb49b7"
   license "MIT"
   head "https://github.com/crodorg/fuga.git", branch: "main"
 
